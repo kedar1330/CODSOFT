@@ -70,10 +70,5 @@ The sales prediction dataset can be found [here](dataset_link).
 
 
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Make sure to replace the `dataset_link` with the actual dataset links you are using, and you can adjust other sections like installation or additional information as needed.
